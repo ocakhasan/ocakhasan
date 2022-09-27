@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨🏻‍💻 I create backend services using Go.
+
+Currently I work in [Getir](https://getir.com/) as Software Engineer where I create microservices for a domain project. 
